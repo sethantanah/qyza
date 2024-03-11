@@ -1,0 +1,5 @@
+package com.qyza.qyza
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity()
